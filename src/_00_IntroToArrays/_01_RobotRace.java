@@ -1,4 +1,4 @@
-package arrays;
+package _00_IntroToArrays;
 
 import java.util.Random;
 
